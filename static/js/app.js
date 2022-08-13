@@ -1,5 +1,5 @@
 // from data.js
-const tableData = data;
+var tableData = data;
 
 // get table references
 var tbody = d3.select("tbody");

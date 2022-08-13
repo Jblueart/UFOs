@@ -10,9 +10,6 @@ Es6 language: JavaScript & CamelCase
 arrow functions
 for...of loops
 
-
-## defining new concepts & functions
-
 Statements: Actions assigning a variable
 Expressions: Create values, mathmatic expression (i*2)= x
 Code blocks denoted by {  extra spacing & curly brackets  } 
